@@ -30,7 +30,7 @@
         <guava>27.1-jre</guava>
         <typesafe.config>1.4.1</typesafe.config>
         <cucumber>4.5.2</cucumber>
-        <junit>4.13</junit>
+        <junit>4.13.1</junit>
     </properties>
 
     <dependencyManagement>
